@@ -1,5 +1,5 @@
 # README generator
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
   ## Description
   Using the command line interface and node's inquirer package this application will generate a professional README.md file. Each README will have navigation links and include a section for project title, a project description, installation instructions, usage instructions, license information, how to contribute, tests, and a questions section with the authors github and email address. 
 
