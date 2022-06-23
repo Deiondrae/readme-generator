@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   - [Questions](#Questions)
     
   ## Installation
-  ${data.intallation}
+  ${data.installation}
 
   ## Usage
   ${data.usage}
