@@ -33,13 +33,13 @@ const questions = [
     },
     {
       type: "input",
-      name: "author",
-      message: "Who is author of this project (Required)",
-      validate: (author) => {
-        if (author) {
+      name: "email",
+      message: "What is your email address? (Required)",
+      validate: (email) => {
+        if (email) {
           return true;
         } else {
-          console.log("Please enter the name of the users!");
+          console.log("Please enter your email address!");
           return false;
         }
       },
