@@ -1,6 +1,6 @@
-# Readme Generator
+# Readme generator
     ## Description
-    This project uses inquirer prompts and the CLI to generate a readme.md file
+    This project generates a readmew
 
     ## Table of Contents
     - [Description](#Description)
@@ -14,11 +14,11 @@
     undefined
 
     ## Usage
-    The app launches in the terminal and can be ran using "node index.js"
+    N/A
 
     ## License
-    [![License](https://img.shields.io/badge/License-MIT-blue.svg)]
-    (https://opensource.org/licenses/MIT)
+    https://img.shields.io/badge/License-MIT-blue.svg
+    https://opensource.org/licenses/MIT
 
     ## How to contribute
     N/A
