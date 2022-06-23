@@ -74,14 +74,14 @@ const questions = [
       choices: [
         "MIT",
         "GPLv2",
-        "Apache",,
+        "Apache-2.0",,
         "BSD-3-Clause",
         "None",
       ],
     },
     {
       type: "input",
-      name: "contribution",
+      name: "contribute",
       message: "Please advise on how to contribute to this project. (Optional)",
     },
     {
